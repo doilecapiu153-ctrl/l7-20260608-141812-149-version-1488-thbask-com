@@ -1,0 +1,13 @@
+{
+  "movies_parsed": 2000,
+  "m3u8_sources": 20,
+  "category_pages": 27,
+  "html_files": 2032,
+  "movie_pages": 2000,
+  "analytics_pages": 2032,
+  "library_cards": 2000,
+  "has_index": true,
+  "has_categories": true,
+  "has_search": true,
+  "has_ranking": true
+}
